@@ -1,4 +1,4 @@
-Variables y estructuras de control
+# Variables y estructuras de control
 
 //noprotect
 var mes = prompt("¿En que estacion del año estamos?")
